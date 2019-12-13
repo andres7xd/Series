@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Series.Serie">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACgAAAAAAAAAAAAAAAAAIAAAAAAAAAAAABA=</HashCode>
+      <FileName>Serie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Series.Temporadas">
+    <Position X="1.25" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Temporadas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Series.Capitulos">
+    <Position X="1.5" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Capitulos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Series.Usuario">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAAAAAAAAAAEAEBAgAAAAIAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Series.Registro">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registro.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
